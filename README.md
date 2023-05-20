@@ -7,8 +7,13 @@
 
 - fashion_mnist_dnn.py ไฟล์โค้ดในการสร้างโมเดลเดิม (ความแม่นยำเดิมที่ 88 เปอร์เซ็นต์) โดยใช้ Neural Network
 - fashion_noodlesCool.py ไฟล์โค้ดที่ถูกปรับแก้จากโมเดลเดิม โดยใช้ Neural Network
+
 ![noodlesCool_fashion_learning_curve](noodlesCool_fashion_learning_curve.png)
 
-Report : [ตารางประสิทธิภาพ](https://github.com/jameVee/Cloth-Classifier/issues/1#issue-1718147106)
+- cloth_classifier.py ไฟล์ GUI สำหรับการทดสอบผลลัพธ์การทำนายแต่ละรูปภาพตัวอย่างของทั้งสองโมเดล
+
+![cloth_classifier.py](https://github.com/jameVee/Cloth-Classifier/issues/2#issue-1718149264)
+
+Performance Report : [Performance Report.pdf](Performance Report.pdf)
 
 Demonstration Video : https://youtu.be/VvHIwbfODm0
