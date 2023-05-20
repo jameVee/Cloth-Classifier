@@ -1,0 +1,21 @@
+# Introduction to Data Science
+# Semester 1/2565
+
+## Term Group Project 
+
+Given the following example programs:
+
+* `fashion_mnist_dnn.py`
+   this program creates a DNN model for predicting clothing type based on Fashion MNIST dataset.
+
+* `cloth_classifier.py`
+   this.program is a GUI program for Photo viewing, editing, and classifying clothing photo.
+
+## INSTRUCTION
+1. Create your own machine learning model(s) for classifying clothing type.
+
+2. Compare the accuracy of your new model with the example model.
+
+3. Add your new model to the `cloth_classifier.py` program.  
+   
+4. Create a video to present your model and program (< 10min)

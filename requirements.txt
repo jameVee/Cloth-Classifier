@@ -1,0 +1,7 @@
+PyQt6
+numpy
+matplotlib
+pandas 
+opencv-python
+tensorflow
+scipy
