@@ -12,7 +12,7 @@
 
 - cloth_classifier.py ไฟล์ GUI สำหรับการทดสอบผลลัพธ์การทำนายแต่ละรูปภาพตัวอย่างของทั้งสองโมเดล
 
-![cloth_classifier.py](https://github.com/jameVee/Cloth-Classifier/issues/2#issue-1718149264)
+![image](https://user-images.githubusercontent.com/59200533/239685732-57f64dd9-a73e-41b6-8f5c-00c5355b34ef.png)
 
 Performance Report : [Performance Report.pdf](Performance Report.pdf)
 
