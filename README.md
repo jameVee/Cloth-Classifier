@@ -14,6 +14,6 @@
 
 ![image](https://user-images.githubusercontent.com/59200533/239685732-57f64dd9-a73e-41b6-8f5c-00c5355b34ef.png)
 
-Performance Report : [Performance Report.pdf](Performance Report.pdf)
+Performance Report : [Performance Report.pdf]([Performance Report.pdf](https://github.com/jameVee/Cloth-Classifier/blob/095c9d8a47745e96d17aca69cb2f872420a0509c/Performance%20Report.pdf))
 
 Demonstration Video : https://youtu.be/VvHIwbfODm0
